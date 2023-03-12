@@ -2,7 +2,7 @@
 title: "Why I am a member of a Communist Party"
 categories: ["Politics", "Personal"]
 date: 2022-08-28T09:00:00Z
-lastmod: 2022-08-28T09:00:00Z
+lastmod: 2023-03-12T19:00:00Z
 description: ""
 featured_image: ""
 draft: false
@@ -11,7 +11,7 @@ In this post I won't be explaining why I think communism is right, or expound on
 
 <!--more-->
 
-I joined the Party the day of the local elections in 2018. Before that, I liked the Party and had friends who were member, but always declined to join, partly because of my own political-philosophical background and a reluctance to commit to a political program. After joining, I quickly decided to become a member of a local group.\[^1\]
+I joined the Party the day of the local elections in 2018. Before that, I liked the Party and had friends who were member, but always declined to join, partly because of my own political-philosophical background and a reluctance to commit to a political program. After joining, I quickly decided to become a member of a local group.[^1]
 
 Initially, it was mainly about my decision to commit to the party program and accepting the compromise between my own political views and them. Thinking it more important to give critical support to a much needed socialist party in our country than nitpicking about details or differences of opinion.
 
@@ -21,4 +21,4 @@ In 2021 there was the Party Congress that is being held every five years - delay
 
 And that's one of the main reasons I'm happy I'm in the Party these days. It gets me connected with the rest of the working classes, keeps me with my feet on the ground and keeps me aware and critical of my own position in our political economy and society at large. Without this, it would be easy to fall into the trap of thinking I'm middle class, disconnected from the toiling classes instead of united with them in a common struggle. It gives hope and comradeship and is an excellent antidote to defeatist resignation.
 
-\[^1\]: Membership in the party is split up in three levels where the expected commitment goes up: advisory members, local group members and militants.
+[^1]: Membership in the party is split up in three levels where the expected commitment goes up: advisory members, local group members and militants.
