@@ -5,7 +5,7 @@ theme = "notrack"
 # newContentEditor = "nvim"
 mainSections = ["blog"]
 # disqusShortname = "example"
-paginate = 10
+paginate = 8
 
 [params]
   author = "Arno"

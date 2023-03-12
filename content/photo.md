@@ -1,9 +1,9 @@
 ---
-title: ''
+title: 'Photography'
 date: 2023-03-12T11:00:00+02:00
 lastmod: 2020-04-10T11:00:00+02:00
-tags: ["portrait", "digital", "Canon 70D"]
 draft: false
+type: "static"
 menu:
   main:
     title: "Photography"
