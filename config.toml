@@ -20,7 +20,7 @@ paginate = 8
 
   [params.social]
     email = "arno.vandenhende@posteo.net"
-    mastodon = "mysteriarch"
+    mastodon = "@mysteriarch"
     goodreads = "arnovdh"
     steam = "thorontur"
     rss = ""
