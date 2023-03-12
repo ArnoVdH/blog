@@ -5,7 +5,7 @@ date: 2021-07-11T14:00:00Z
 lastmod: 2022-12-05T10:00:00Z
 description: ""
 featured_image: ""
-draft: true
+draft: false
 ---
 The _nillies_ has been the decade of social media. From initial novelty to the digital equivalent of low-yield nuclear ICBM's. The analogy is maybe a bit over dramatic, but it's potential as a weapon has been demonstrated already. During these ten years, it has taken root almost everywhere on the globe. When older people started accepting it - and youngsters subsequently started to reject it in rebellion - was when it went from new frontier to established, settled fact.
  <!--more-->

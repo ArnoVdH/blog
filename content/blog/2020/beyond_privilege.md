@@ -5,7 +5,7 @@ date: 2020-08-26T21:30:00Z
 lastmod: 2021-04-23T20:00:00Z
 description: ""
 featured_image: ""
-draft: true
+draft: false
 ---
 There is a presupposition that, as a white cishet male (all the words!) trying to acknowledge his *privileges*, I must be utterly miserable and emasculated by the experience. Full of self-hate and constantly apolizing; digging myself deeper, groveling before the relevant opressed demographic. Castigating myself and my 'fellow people' before the altar of the false god of *political correctness*.[^*] This is simply not true in my experience, which I'll try to explain here.
 

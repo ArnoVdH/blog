@@ -2,10 +2,10 @@
 title:  "Digital Alternatives"
 categories: ["Internet", "Project"]
 date: 2020-07-12T21:03:00+02:00
-lastmod: 2020-07-27T22:15:00Z
+lastmod: 2023-03-12T19:00:00Z
 featured_image: ""
 description: "A post about my efforts to get away from the big data corps"
-draft: true
+draft: false
 ---
 This blogpost is a list about my search for digital alternatives that are more open, more respectful and more private than the ones I and a lot of other people have been using until now, often for free. It's an attempt to claim back ownership of my virtual self. 
 
@@ -56,13 +56,12 @@ There are multiple alternative search engines to replace the omnipresent Google.
 One of the things I use Facebook for, just like many other people on our planet these days, is as a source of news. This is problematic to say the least, but they *are* pretty good at giving you a good overview without overwhelming the user. This was a huge problem when I tried to switch to using a regular RSS feed: as soon as I started following two or three news-sources, I quickly became overwhelmed by updates and notifications. This seemed counterproductive. So I started looking for a feed aggregator that has some way of filtering or an algorithm that keeps it accessible to me.
 
 ## Social networking
-**Status: to do ✘**
+**Status: done ✔**
 
 I honestly think this will be the most difficult part of the transitioning, since this isn't just a technical problem to be overcome, but more importantly a social one. Due to the network effect, switching to another network means a huge loss. Unfortunately most commercial social networks don't communicate between eachother, let alone federate.
-
 There are some alternative social networks, mostly federated and built around technology like ActivityPub. There's Mastodon (a Twitter clone), Diaspora (a Facebook like social network) and some more. But most of these are very niche.
-
 Another possibility would be to make a social network between websites themselves. This could be done through some sort of advanced RSS or the Webmention technology.
+Update: I moved away from commercial social media.
 
 ## Maps & route planning
 **Status: to do ✘**
@@ -78,6 +77,7 @@ I wanted a service that worked well on multiple platforms (Windows, Linux, Andro
 **Status: done ✔**
 
 I made the switch to Linux during the summer. One of the big issues, as with anyone wanting to switch, is choosing which distro to use. After some deliberation and research I decided to go with [Manjaro](https://manjaro.org/). Not only was it recommended to me by a friend, it's also accessible yet cutting-edge enough for my needs, since it's based on Arch Linux. It's also an experiment in gaming for me, using [Proton](https://github.com/ValveSoftware/Proton).
+Update: After using Manjaro for about a year, I decided to switch to just Arch Linux, since Manjaro led to some instabilities.
 
 ## Mobile operating System
 **Status: to do ✘**
