@@ -5,7 +5,7 @@ date: 2019-10-01T13:20:00Z
 lastmod: 2022-12-05T10:00:00Z
 description: ""
 featured_image: ""
-draft: true
+draft: false
 ---
 Since I'm getting sterilized soon, I thought I'd write about my "childfree wish" and my vision on the ethics and philosophical justifications of (not) having children.
 <!--more-->

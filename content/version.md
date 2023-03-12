@@ -1,24 +1,13 @@
 ---
 date: 2019-07-10T08:00:00Z
-lastmod: 2022-12-04T16:20:00Z
+lastmod: 2023-03-12T12:00:00Z
 description: "Version history of this blog"
 featured_image: ""
 tags: []
 title: "Version history"
 type: "static"
 ---
-Overview of to-do's, ideas for, and (major) changes to the website.
-
-### To do & ideas
-* Re-implement photography page
-* Add some sort of 'series' taxonomy back into the photography section
-* List the 'series' chronologically in nav-menu
-* Add info (metadata) about the pictures that show up only when activated
-* Style the css a bit more to my own liking
-
-***
-
-### 2.0 (2022-12-04)
+### 2.0 (2023-03-12)
 * Switched to a new, pre-made theme called Notrack and did some initial set-up
 
 ### 1.3.2 (2021-01-19)
