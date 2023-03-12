@@ -1,5 +1,5 @@
 ---
-title: "Books of 2021 (non-fiction)"
+title: "Books of 2022 (non-fiction)"
 categories: ["Books", "Review"]
 date: 2022-12-31T13:00:00Z
 lastmod: 2022-12-31T13:30:00Z

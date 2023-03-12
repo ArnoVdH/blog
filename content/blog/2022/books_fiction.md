@@ -1,5 +1,5 @@
 ---
-title: "Books of 2021 (fiction)"
+title: "Books of 2022 (fiction)"
 categories: ["Books", "Review"]
 date: 2022-12-31T13:00:00Z
 lastmod: 2023-03-12T21:30:00Z
