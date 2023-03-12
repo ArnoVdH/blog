@@ -19,6 +19,7 @@ Lesson learned by making this list: I need to watch more older movies.
 
 ### 1920s
 * 1920: **Das Cabinet des Dr. Caligari** - Robert Wiene
+* 1922: **Nosferatu** - F.W. Murnau
 * 1927: **Metropolis** - Fritz Lang
 
 ### 1930s
@@ -73,8 +74,10 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1984: **Ghostbusters** - Ivan Reitman
 * 1984: **The Terminator** - James Cameron
 * 1984: **Jan zonder vrees** - Jef Cassiers
+* 1984: **Nausicaä of the Valley of the Wind** - Hayao Miyazaki
 * 1985: **The Purple Rose of Cairo** - Woody Allen
 * 1985: **Brazil** - Terry Gilliam
+* 1985: **Tampopo** - Jûzô Itami
 * 1986: **Big Trouble in Little China** - John Carpenter
 * 1987: **Der Himmer über Berlin** - Wim Wenders
 * 1987: **Full Metal Jacket** - Stanley Kubrick
@@ -82,6 +85,7 @@ Lesson learned by making this list: I need to watch more older movies.
 * 1988: **Beetlejuice** - Tim Burton
 * 1988: **Akira** - Katsuhiro Otomo
 * 1988: **Drowning by Numbers** - Peter Greenaway
+* 1988: **They Live** - John Carpenter
 * 1989: **The Cook, the Thief, His Wife & Her Lover** - Peter Greenaway
 * 1989: **Indiana Jones and the Last Crusade** - Steven Spielberg
 * 1989: **The BFG** - Brian Cosgrove
@@ -176,9 +180,11 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2013: **Her** - Spike Jonze
 * 2013: **All Is Lost** - J. C. Chandor
 * 2013: **Under the Skin** - Jonathan Glazer
+* 2013: **A Field in England** - Ben Wheatley
 * 2014: **The Grand Budapest Hotel** - Wes Anderson
 * 2014: **Birdman or (The Unexpected Virtue of Ignorance)** - Alejandro G. Iñárritu
 * 2014: **What We Do in the Shadows** - Taika Waititi & Jemaine Clement
+* 2014: **Pride** - Matthew Warchus
 * 2015: **The Lobster** - Yorgos Lanthimos
 * 2015: **Mad Max: Fury Road** - George Miller
 * 2015: **The Hateful Eight** - Quentin Tarantino
@@ -190,14 +196,19 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2017: **Atomic Blonde** - David Leitch
 * 2017: **Blade Runner 2049** - Denis Villeneuve
 * 2017: **The Death of Stalin** - Armando Iannucci
+* 2017: **The Square** - Ruben Östlund
 * 2018: **Annihilation** - Alex Garlan
 * 2018: **The Favourite** - Yorgos Lanthimos
 * 2018: **BlacKkKlansman** - Spike Lee
 * 2018: **Sorry to Bother You** - Boots Riley
 * 2019: **The Lighthouse** - Robert Eggers
 * 2019: **1917** - Sam Mendes
+* 2019: **Knives Out** - Rian Johnson
+* 2019: **Midsommar** - Ari Aster
+* 2019: **Parasite** - Bong Joon Ho
 
 ### 2020s
 * 2021: **Inside** - Bo Burnham
 * 2021: **The French Dispatch** - Wes Anderson
 * 2021: **The Green Knight** - David Lowery
+* 2022: **Triangle of Sadness** - Ruben Östlund

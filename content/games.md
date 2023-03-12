@@ -22,11 +22,13 @@ menu:
 * 2016: **Mythos Tales** (board game)
 
 ## Computer Games
+* 1997: **The Curse of Monkey Island** - LucasArts
 * 1998: **Half-Life** - Valve
 * 2000: **Giants: Citizen Kabuto** - Planet Moon Studios
 * 2001: **Uplink** - Introversion Software
 * 2002: **The Elder Scrolls III: Morrowind** - Bethesda
 * 2002: **Medal of Honor: Allied Assault** - 2015, Inc.
+* 2002: **Mafia** - Illusion Softworks
 * 2003: **Command & Conquer: Generals** - EA Pacific
 * 2004: **Half-Life 2** - Valve
 * 2004: **Warhammer: Dawn of War** - Relic Entertainment
@@ -66,3 +68,5 @@ menu:
 * 2019: **Return of the Obra Dinn** - Lucas Pope
 * 2019: **Disco Elysium** - ZA/UM
 * 2019: **Workers & Resources: Soviet Republic** - 3Division
+* 2019: **Anno 1800** - Blue Byte
+* 2020: **Cyberpunk 2077** - CD Projekt Red
