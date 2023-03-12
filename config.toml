@@ -10,7 +10,7 @@ paginate = 8
 [params]
   author = "Arno"
   siteHeading = "Arno" # defaults to author
-  favicon = "hugo_grotius.png" # Adds a small icon next to the page title in a tab
+  favicon = "favicon.ico" # Adds a small icon next to the page title in a tab
   showBlogLatest = true
   mainSections = ["blog"]
   showTaxonomyLinks = false
