@@ -19,6 +19,8 @@ menu:
 ## Read
 
 ### 2023
+* **The Shadow over Innsmouth** - H. P. Lovecraft ★★★
+* **The Doomed City** - Arkady & Boris Strugatsky ★★★
 * **What Moves the Dead** - T. Kingfisher ★★★★
 * **Walkaway** - Cory Doctorow ★★★
 * **Mr. Penumbra's 24-Hour Bookstore** - Robin Sloan ★★

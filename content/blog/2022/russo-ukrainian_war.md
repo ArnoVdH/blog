@@ -5,7 +5,7 @@ date: 2022-03-13T03:40:00Z
 lastmod: 2022-03-13T03:40:00Z
 description: ""
 featured_image: ""
-draft: true
+draft: false
 ---
 The recent war in Ukraine has shocked the (Western) world and will probably, together with the (still ongoing) pandemic, be a moment of a great change in historical direction. A lot is being said, a lot of discourse generated and in typical jingoist fashion a lot of nuance is being lost. In this post I'd like to write out some of my own thoughts on this topic.
 <!--more-->
