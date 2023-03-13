@@ -2,7 +2,7 @@
 title: "Books of 2022 (fiction)"
 categories: ["Books", "Review"]
 date: 2022-12-31T13:00:00Z
-lastmod: 2023-03-12T21:30:00Z
+lastmod: 2023-03-13T09:30:00Z
 description: ""
 featured_image: ""
 draft: false
@@ -24,7 +24,7 @@ There is some evocative atmosphere here, but maybe that's to do with the title a
 ### Foucault's Pendulum - Umberto Eco 
 This was one of my favorite books of the year. There's so much I love in an Eco novel here, loads of historical references, philosophy and a wonderful plot. It hits some of the same notes as The Prague Cemetery, but without the loathsome protagonist. Here, they don't have bad intentions, they're actually having some sort of fun and end up in the tangle of their own game. Great stuff!
 ### My Work is Not Yet Done - Thomas Ligotti 
-I prefer Ligotti's shorter work, this seems to be in the genre of 'corporate horror' of which I've never read a satisfying version.
+I prefer Ligotti's shorter work. This seems to be in the genre of 'corporate horror' of which I've never read a satisfying version.
 ### Heart of a Dog - Mikhail Bulgakov 
 Imaginative satire on early Soviet society, the different types of characters (the bourgeois, the opportunist, the dogmatic lackey,...), told through a sci-fi lens.
 ### Magpie Murders (Susan Ryeland 1) - Anthony Horowitz 
@@ -50,13 +50,13 @@ Probably the worst book I read this year? From one of the defining authors of bi
 ### Ringworld (Ringworld 1) - Larry Niven 
 Classic sci-fi story, written as an adventure in space. It felt a bit dated with the way the female character gets treated.
 ### Rogue Protocol (Murderbot Diaries 3) - Martha Wells 
-Part three in the Murderbot series. Where the second was a story where Murderbots does something on its own, disconnected from their first adventure (and escape), here callbacks are getting made. Evil megacorp from the first story is doing more shady stuff.
+Part three in the Murderbot series. Where the second was a story where Murderbots does something on its own, disconnected from their first adventure (and escape). Here callbacks are getting made. Evil megacorp from the first story is doing more shady stuff.
 ### The Dispossessed - Ursula K. Le Guin
 One of the greater sci-fi and political novels I've read. Le Guin succeeds in creating a believable alternative society and even to make it seem natural when confronted with some more traditional ones, without seeming convoluted. The alternating chapters, slowly revealing the reason of Sheveks departure from his home planet of Annares while at the same time telling the story of his flight to and life on Urras gets employed to great effect.
 ### The Wind's Twelve Quarters and the Compass Rose - Urusula K. Le Guin
-A whole bunch of short-stories, from her Earthsea cycle to classics like 'The Ones Who Walk Away from Omelas', as with all short story collections, it's a mix, but overall a very good collection.
+A whole bunch of short-stories, from her Earthsea cycle to classics like 'The Ones Who Walk Away from Omelas'. As with all short story collections, it's a mix, but overall a very good collection.
 ### The Man Who Died Twice - Richard Osman 
-In this sequal to The Thursday Murder Club, Osman takes the same characters but places them in a somewhat more outlandish spy-plot. I'd preferred it if they kept it smaller, more local in scope. But still enjoyable.
+In this sequel to The Thursday Murder Club, Osman takes the same characters but places them in a somewhat more outlandish spy-plot. I'd preferred it if they kept it smaller, more local in scope. But still enjoyable.
 ### Exit Strategy (Murderbot Diaries 4) - Martha Wells
 Fourth part in the series. At this point, I became a bit bored by it all, more of the same, the writing is still a bit confusing at times, but the humor of Murderbot keeps things fresh enough to finish.
 ### The Divinity Student - Michael Cisco
