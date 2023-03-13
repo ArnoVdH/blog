@@ -1,6 +1,6 @@
 baseURL = 'https://arnovdh.be/'
 languageCode = "en-us"
-title = "Arno's blog"
+title = "Blog"
 theme = "notrack"
 # newContentEditor = "nvim"
 mainSections = ["blog"]
