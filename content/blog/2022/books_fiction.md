@@ -2,7 +2,7 @@
 title: "Books of 2022 (fiction)"
 categories: ["Books", "Review"]
 date: 2022-12-31T13:00:00Z
-lastmod: 2023-03-13T09:30:00Z
+lastmod: 2023-03-15T13:30:00Z
 description: ""
 featured_image: ""
 draft: false
@@ -12,7 +12,7 @@ My yearly retrospective on the books I read, general impressions they left on me
 ### The Mammoth Book of Cthulhu - Paula Guran (editor)
 This was a bundle of short stories inspired by the Cthulhu Mythos. I found it to be pretty disappointing overall, so that I can't really seem to recall any specific stories from it.
 ### The Difference Engine -  William Gibson & Bruce Sterling 
-The quintessential steampunk novel that shines best when you recognize the 
+The quintessential steampunk novel that shines best when you recognize the historical and technological references. I did find the plot to be somewhat muddled and confusing.
 ### Ring Shout -  P. Djèlí Clark 
 Cool action flick, set in a dark, Lovecraftian setting, with people of color fighting against racism-as-a-cosmic-horror.
 ### Story of the Eye - Georges Bataille 
