@@ -1,7 +1,7 @@
 ---
 title: "Books of 2022 (non-fiction)"
 categories: ["Books", "Review"]
-date: 2022-12-31T13:00:00Z
+date: 2022-12-31T13:10:00Z
 lastmod: 2022-03-15T12:00:00Z
 description: ""
 featured_image: ""
