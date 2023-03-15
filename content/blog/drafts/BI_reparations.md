@@ -7,7 +7,7 @@ description: ""
 featured_image: ""
 draft: true
 ---
-Intro
+The idea of a Unconditional (or Universal) Basic Income (UBI) has been floating around for some time now
 <!--more-->
 Generational difficulties
 Guilt & responsability
