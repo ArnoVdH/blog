@@ -1,6 +1,6 @@
 +++
 title =  "Posters TSG 't Zal Wel Gaan"
-date = 2023-03-15T15:30:00Z
+date: 2023-03-15T15:00:00Z
 lastmod: 2023-03-15T15:30:00Z
 categories = ["Design"]
 featured_image = ""
