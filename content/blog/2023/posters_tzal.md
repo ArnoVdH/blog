@@ -14,10 +14,11 @@ During a few years I was a member, I did the visual side of operations, designin
 {{< gallery-category >}}
     {{< gallery-photo fn="blog/posters/1_Raes.jpg" caption="Memorial lecture for Koen Raes" >}}
 {{< /gallery-category >}}
+{{< image frame="false" width="90%" src="img//thumbnails/blog/posters/1_Raes.jpg" alt="Memorial lecture for Koen Raes" >}}
 **Memorial lecture for Koen Raes** One of the very first posters I made; it was an adaption of the existing visual style.
 
 {{< gallery-category >}}
-    {{< gallery-photo fn="blog/posters/2_Openingsdebat2011" caption="Opening debate 2011" >}}
+    {{< gallery-photo fn="blog/posters/2_Openingsdebat2011.jpg" caption="Opening debate 2011" >}}
 {{< /gallery-category >}}
 **Opening debate 2011**
 
@@ -37,7 +38,7 @@ During a few years I was a member, I did the visual side of operations, designin
 **Writer Benno Barnard on the Dutch language** This is one of the best typographical posters I made.
 
 {{< gallery-category >}}
-    {{< gallery-photo fn="blog/posters/6_Ecologie" caption="Evening on ecology and sustainable growth" >}}
+    {{< gallery-photo fn="blog/posters/6_Ecologie.jpg" caption="Evening on ecology and sustainable growth" >}}
 {{< /gallery-category >}}
 **Evening on ecology and sustainable growth** The new style was flexible; changing colours didn't make it unrecognizable.
 
