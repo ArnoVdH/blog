@@ -1,12 +1,12 @@
-+++
-title:  "Posters TSG 't Zal Wel Gaan"
+---
+title: "Posters"
+categories: ["Design"]
 date: 2023-03-15T15:00:00Z
 lastmod: 2023-03-15T15:30:00Z
-categories = ["Design"]
-featured_image = ""
-description = ""
-draft = false
-+++
+description: ""
+featured_image: ""
+draft: false
+---
 For years I was a member of a philosophical-minded, freethinking student society in Ghent, called "T.S.G. 't Zal Wel Gaan" ("T.S.G." stands for "taalminnend studentengenootschap" or language-loving student society). It's, as far as I know, the oldest of its kind in Belgium, founded in 1852. It has a long and turbulent history, but that's a story for another time.
 
 During a few years I was a member, I did the visual side of operations, designing the posters mainly. Here I'm sharing a few that I've managed not to lose.
