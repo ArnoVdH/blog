@@ -28,6 +28,25 @@ menu:
     {{< gallery-photo fn="2019/cello1.jpg" caption="Cello" >}}
     {{< gallery-photo fn="2019/cello2.jpg" caption="Cello" >}}
  {{< /gallery-category >}}
+### Prague
+ {{< gallery-category >}}
+    {{< gallery-photo fn="2018/prague/prague1.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague2.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague3.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague4.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague5.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague6.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague7.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague8.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague9.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague10.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague11.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague12.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague13.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague14.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague15.jpg" caption="Prague" >}}
+    {{< gallery-photo fn="2018/prague/prague16.jpg" caption="Prague" >}}
+{{< /gallery-category >}}
 ### Ziggy
 {{< gallery-category >}}
     {{< gallery-photo fn="2018/ziggy.jpg" caption="Ziggy" >}}
