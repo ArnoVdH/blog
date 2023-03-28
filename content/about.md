@@ -1,20 +1,19 @@
 ---
 title:  "About"
 date: 2019-07-08T22:15:02+02:00
-lastmod: 2022-12-04T16:20:00Z
+lastmod: 2023-03-18T00:00:00Z
 tags: []
 featured_image: ""
 description: "A page about myself"
 draft: false
 type: "static"
-lastmod: 2020-11-01T12:22:00Z
 menu:
   main:
     title: "About"
     weight: 30
 ---
 
-{{< image frame="false" width="50%" src="img/me2.jpg" alt="Picture of me" >}}
+{{< image frame="false" width="40%" src="img/me2.jpg" alt="Picture of me" >}}
 
 I'm Arno, a 32-years old civil-servant, philosopher and generalist geek. 
 

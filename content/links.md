@@ -27,16 +27,20 @@ weight: 40
 
 ### Video essays
 
-* [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/): Abigail Thorn makes engaging video essays on philosophy and politics
-* [ContraPoints](https://www.youtube.com/c/ContraPoints/): Nathalie Wynn makes dramatic video essays on politics and queerness
-* [Three Arrows](https://www.youtube.com/c/ThreeArrows/): Dan Arrows makes videos about history and analyses right-wing rhetoric
-* [Unlearning Economics](https://www.youtube.com/channel/UC4V_jMdRbbTrmBVJB6FDzgw): left-wing economist tackling different subjects in a nuanced way
+* [Philosophy Tube](https://www.youtube.com/@PhilosophyTube): Abigail Thorn makes engaging video essays on philosophy and politics
+* [ContraPoints](https://www.youtube.com/@ContraPoints): Nathalie Wynn makes dramatic video essays on politics and queerness
+* [Three Arrows](https://www.youtube.com/@ThreeArrows): Dan Arrows makes videos about history and analyses right-wing rhetoric
+* [Unlearning Economics](https://www.youtube.com/@unlearningeconomics9021): left-wing economist tackling different subjects in a nuanced way
+* [hbomberguy](https://www.youtube.com/@hbomberguy): guy that makes three hour videos on video games, but also some nice analyses of right-wing phenomena.
+* [Folding Ideas](https://www.youtube.com/@FoldingIdeas): Dan Olson makes videos on technology, narrative and social criticism.
+* [Technology connections](https://www.youtube.com/@TechnologyConnections): videos on all kinds of ordinary devices, showing the fascinating way they function.
+* [Climate Town](https://www.youtube.com/@ClimateTown): dissecting anti-climate policies (mainly from the US though).
 
 ### Visual arts
 
 * [Kirsten Goemaere](http://www.punkie.be/): Local artist creating collages, illustrations and paintings
 * [Apollonia Saintclair](https://apolloniasaintclair.com/): Swiss artist of erotic - and often weird - art
-* [Matt Bailey](https://www.baileyillustration.com/): Tattoo artist and illustrator of voluptuous women and skeletons
+* [Matt Bailey](https://www.baileyillustration.com/): tattoo artist and illustrator of voluptuous women and skeletons
 * [Feline De Coninck](http://www.felinedeconinck.com/): local photographer who excels at intimate scenes
 * [Helvetica Blanc](https://helveticablanc.com/ "Helvetica Blanc"): American artist who crafts special glyphs and cutesy occult symbols
 
@@ -49,7 +53,7 @@ weight: 40
 * [Political correctness: how the right invented a phantom enemy](https://www.theguardian.com/us-news/2016/nov/30/political-correctness-how-the-right-invented-phantom-enemy-donald-trump): on the origins of political correctness
 * [Four Futures](https://www.jacobinmag.com/2011/12/four-futures/): interesting comparison of four different possible post-capitalist societies, on two axis: egalitarianism vs hierarchy and abundance vs scarcity
 * [The moral case for destroying fossil fuel infrastructure](https://www.theguardian.com/commentisfree/2021/nov/18/moral-case-destroying-fossil-fuel-infrastructure): short opinion piece on the necessity of violent action in the face of climate catastrophe. (Malm also has a longer book on the same subject)
-* [How Should We Judge the Revolutionaries?](https://www.jacobinmag.com/2016/07/jaures-french-revolution-robespierre-socialist): Translation of a chapter from _A Socialist History of the French Revolution_ by Jean Jaurès
+* [How Should We Judge the Revolutionaries?](https://www.jacobinmag.com/2016/07/jaures-french-revolution-robespierre-socialist): translation of a chapter from _A Socialist History of the French Revolution_ by Jean Jaurès
 
 ## Sites
 

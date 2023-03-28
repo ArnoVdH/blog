@@ -14,11 +14,13 @@ menu:
     weight: 10
 ---
 ## Currently reading
+* **Carnacki, the Ghost Finder** - William Hope Hodgson
 * **Socialism or Barbarism** - Rosa Luxemburg
 
 ## Read
 
 ### 2023
+* **After The Revolution** - Robert Evans
 * **The Shadow over Innsmouth** - H. P. Lovecraft ★★★
 * **The Doomed City** - Arkady & Boris Strugatsky ★★★
 * **What Moves the Dead** - T. Kingfisher ★★★★
