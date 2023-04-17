@@ -14,13 +14,16 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Carnacki, the Ghost Finder** - William Hope Hodgson
+* **A Short Stay in Hell** - Steven L. Peck
 * **Socialism or Barbarism** - Rosa Luxemburg
 
 ## Read
 
 ### 2023
-* **After The Revolution** - Robert Evans
+* **Stasi State or Socialist Paradise?** - Bruni de la Motte & John Green ★★★
+* **Survival of the Richest** - Douglas Rushkoff ★★★
+* **Carnacki, the Ghost Finder** - William Hope Hodgson ★★★
+* **After The Revolution** - Robert Evans ★★
 * **The Shadow over Innsmouth** - H. P. Lovecraft ★★★
 * **The Doomed City** - Arkady & Boris Strugatsky ★★★
 * **What Moves the Dead** - T. Kingfisher ★★★★
