@@ -8,7 +8,7 @@ menu:
   main:
     title: "Portraits"
     parent: "Photography"
-    weight: 20
+    weight: 10
 ---
 ### Anne
 {{< gallery-category >}}

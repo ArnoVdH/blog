@@ -1,5 +1,5 @@
 ---
-title: 'De Humanis Urbis Fabrica'
+title: 'Traject'
 date: 2023-03-12T11:00:00+02:00
 lastmod: 2020-04-10T11:00:00+02:00
 draft: false
@@ -8,7 +8,7 @@ menu:
   main:
     title: "Traject"
     parent: "Photography"
-    weight: 20
+    weight: 30
 ---
 
 ### Traject
