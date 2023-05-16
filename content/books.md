@@ -14,12 +14,12 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **A Short Stay in Hell** - Steven L. Peck
-* **Socialism or Barbarism** - Rosa Luxemburg
+* **The Dawn of Everything** - David Graeber & David Wengrow
 
 ## Read
-
 ### 2023
+* **Socialism or Barbarism** - Rosa Luxemburg ★★★★
+* **A Short Stay in Hell** - Steven L. Peck ★★★
 * **Stasi State or Socialist Paradise?** - Bruni de la Motte & John Green ★★★
 * **Survival of the Richest** - Douglas Rushkoff ★★★
 * **Carnacki, the Ghost Finder** - William Hope Hodgson ★★★
