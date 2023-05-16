@@ -10,11 +10,6 @@ menu:
     parent: "Photography"
     weight: 20
 ---
-### Paris
-{{< gallery-category >}}
-    {{< gallery-photo fn="2019/paris.jpg" caption="Père-Lachaise" >}}
- {{< /gallery-category >}}
-
 ### Prague
  {{< gallery-category >}}
     {{< gallery-photo fn="2018/prague/prague1.jpg" caption="Prague" >}}
@@ -34,7 +29,6 @@ menu:
     {{< gallery-photo fn="2018/prague/prague15.jpg" caption="Prague" >}}
     {{< gallery-photo fn="2018/prague/prague16.jpg" caption="Prague" >}}
 {{< /gallery-category >}}
-
 ### Roadtrip France - color
 {{< gallery-category >}}
     {{< gallery-photo fn="2017/roadtripfrancecolor/RoadtripFranceColor-01-min.jpg" caption="France" >}}
@@ -80,7 +74,6 @@ menu:
     {{< gallery-photo fn="2017/roadtripfrancebnw/francebnw4.jpg" caption="France" >}}
     {{< gallery-photo fn="2017/roadtripfrancebnw/francebnw5.jpg" caption="France" >}}
 {{< /gallery-category >}}
-
 ### Copenhagen
 {{< gallery-category >}}
     {{< gallery-photo fn="2016andbefore/copenhagen/copenhagen1.jpg" caption="Copenhagen" >}}
@@ -89,12 +82,10 @@ menu:
     {{< gallery-photo fn="2016andbefore/copenhagen/copenhagen4.jpg" caption="Copenhagen" >}}
     {{< gallery-photo fn="2016andbefore/copenhagen/copenhagen5.jpg" caption="Copenhagen" >}}
 {{< /gallery-category >}}
-
 ### Cambridge
 {{< gallery-category >}}
     {{< gallery-photo fn="2016andbefore/cambridge.jpg" caption="King's College, Cambridge - Agfa box camera" >}}
 {{< /gallery-category >}}
-
 ### Budapest
 {{< gallery-category >}}
     {{< gallery-photo fn="2016andbefore/budapest/buda_by_night.jpg" caption="Budapest" >}}

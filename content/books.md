@@ -19,6 +19,7 @@ menu:
 ## Read
 ### 2023
 * **Socialism or Barbarism** - Rosa Luxemburg ★★★★
+* **Call of Cthulhu Keeper Rulebook** - Sandy Petersen ★★★
 * **A Short Stay in Hell** - Steven L. Peck ★★★
 * **Stasi State or Socialist Paradise?** - Bruni de la Motte & John Green ★★★
 * **Survival of the Richest** - Douglas Rushkoff ★★★

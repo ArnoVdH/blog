@@ -10,8 +10,8 @@ menu:
     parent: "Photography"
     weight: 30
 ---
+This series was bundled in a book titled 'De Humanis Urbis Fabrica'.
 
-### Traject
 {{< gallery-category >}}
     {{< gallery-photo fn="2017/traject/traject1.jpg" caption="Traject" >}}
     {{< gallery-photo fn="2017/traject/traject2.jpg" caption="Traject" >}}

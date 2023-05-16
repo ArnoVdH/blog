@@ -15,37 +15,30 @@ menu:
     {{< gallery-photo fn="2020/anne1.jpg" caption="Anne" >}}
     {{< gallery-photo fn="2020/anne2.jpg" caption="Anne" >}}
     {{< gallery-photo fn="2020/anne3.jpg" caption="Anne" >}}
- {{< /gallery-category >}}    
- 
+ {{< /gallery-category >}}
 ### Vanitas
 {{< gallery-category >}}
     {{< gallery-photo fn="2019/vanitas.jpg" caption="Me" >}}
  {{< /gallery-category >}}
-
 ### Self-portrait
 {{< gallery-category >}}
     {{< gallery-photo fn="2018/selfportrait.jpg" caption="Me" >}}
 {{< /gallery-category >}}
-
 ### Morgue portrait
 {{< gallery-category >}}
     {{< gallery-photo fn="2018/morgueportrait/portrait1.jpg" caption="Morgue portrait" >}}
     {{< gallery-photo fn="2018/morgueportrait/portrait2.jpg" caption="Morgue portrait" >}}
 {{< /gallery-category >}}
-
 ### Karavaanserail
 {{< gallery-category >}}
     {{< gallery-photo fn="2018/karavaanserail/karavaanserail1.jpg" caption="Karavaanserail portrait" >}}
     {{< gallery-photo fn="2018/karavaanserail/karavaanserail2.jpg" caption="Karavaanserail portrait" >}}
     {{< gallery-photo fn="2018/karavaanserail/karavaanserail3.jpg" caption="Karavaanserail portrait" >}}
 {{< /gallery-category >}}
-
-
 ### Self-portrait
 {{< gallery-category >}}
     {{< gallery-photo fn="2017/selfportrait.jpg" caption="Me" >}}
 {{< /gallery-category >}}
-
 ### Cyanoportraits
 {{< gallery-category >}}
     {{< gallery-photo fn="2017/cyano/cyano1.jpg" caption="Cyanotype portrait" >}}
@@ -55,12 +48,10 @@ menu:
     {{< gallery-photo fn="2017/cyano/cyano5.jpg" caption="Cyanotype portrait" >}}
     {{< gallery-photo fn="2017/cyano/cyano6.jpg" caption="Cyanotype portrait" >}}
 {{< /gallery-category >}}
-
 ### Self-portrait
 {{< gallery-category >}}
     {{< gallery-photo fn="2016andbefore/selfportrait.jpg" caption="Me" >}}
 {{< /gallery-category >}}
-
 ### Portraits
 {{< gallery-category >}}
     {{< gallery-photo fn="2016andbefore/egon.jpg" caption="Egon" >}}
