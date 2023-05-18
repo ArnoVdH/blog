@@ -14,10 +14,11 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **The Dawn of Everything** - David Graeber & David Wengrow
+
 
 ## Read
 ### 2023
+* **The Dawn of Everything** - David Graeber & David Wengrow ★★★★★
 * **Socialism or Barbarism** - Rosa Luxemburg ★★★★
 * **Call of Cthulhu Keeper Rulebook** - Sandy Petersen ★★★
 * **A Short Stay in Hell** - Steven L. Peck ★★★
