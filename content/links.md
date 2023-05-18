@@ -19,7 +19,7 @@ weight: 40
 ## Creators
 ### Podcasts
 
-* [Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/): Great in-depth podcasts about some of the great revolutions of the modern age: the French Revolution, the Springtime of Nations of 1848, the Paris Commune and the Russian Revolution(s).
+* [Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/): great in-depth podcasts about some of the great revolutions of the modern age: the French Revolution, the Springtime of Nations of 1848, the Paris Commune and the Russian Revolution(s).
 * [Anti-Capitalist Chronicles](https://www.democracyatwork.info/davidharveyacc): a podcast that looks at capitalism through a Marxist lens, with professor David Harvey.
 * [The Iron Dice](https://www.theirondice.com/): history podcast about the struggles of the Weimar Republic.
 * [Tech Won't Save Us](https://www.techwontsave.us/): leftist podcast that looks at technology with a critical eye.
@@ -38,12 +38,12 @@ weight: 40
 
 ### Visual arts
 
-* [Kirsten Goemaere](http://www.punkie.be/): Local artist creating collages, illustrations and paintings.
+* [Kirsten Goemaere](http://www.punkie.be/): local artist creating collages, illustrations and paintings.
 * [Apollonia Saintclair](https://apolloniasaintclair.com/): Swiss artist of erotic - and often weird - art.
 * [Matt Bailey](https://www.baileyillustration.com/): tattoo artist and illustrator of voluptuous women and skeletons.
 * [Feline De Coninck](http://www.felinedeconinck.com/): local photographer who excels at intimate scenes.
 * [Helvetica Blanc](https://helveticablanc.com/ "Helvetica Blanc"): American artist who crafts special glyphs and cutesy occult symbols.
-* [Denver De Cleer](https://denverdcl.com/): Local architecture photographer.
+* [Denver De Cleer](https://denverdcl.com/): local architecture photographer.
 
 ## Articles
 
