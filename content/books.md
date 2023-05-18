@@ -28,8 +28,8 @@ menu:
 * **The Shadow over Innsmouth** - H. P. Lovecraft ★★★
 * **The Doomed City** - Arkady & Boris Strugatsky ★★★
 * **What Moves the Dead** - T. Kingfisher ★★★★
-* **Walkaway** - Cory Doctorow ★★★
-* **Mr. Penumbra's 24-Hour Bookstore** - Robin Sloan ★★
+* **Walkaway** - Cory Doctorow ★★
+* **Mr. Penumbra's 24-Hour Bookstore** - Robin Sloan ★
 * **The Utopia of Rules** - David Graeber ★★★★
 * **Babel** - R.F. Kuang ★★★★
 * **1830: De scheiding van Nederland, België en Luxemburg** - Rolf Falter ★★★★
