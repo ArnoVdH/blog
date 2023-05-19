@@ -3,7 +3,7 @@ date: 2019-09-01T08:00:00Z
 lastmod: 2022-12-04T16:20:00Z
 description: "My reading history"
 featured_image: ""
-lastmod: 2022-04-21T16:00:00Z
+lastmod: 2022-05-19T14:00:00Z
 tags: []
 title: "Books"
 type: "static"
@@ -14,7 +14,7 @@ menu:
     weight: 10
 ---
 ## Currently reading
-
+* **Stolen Focus** - Johann Hari
 
 ## Read
 ### 2023
