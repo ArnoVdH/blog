@@ -1,9 +1,7 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2022-12-04T16:20:00Z
+lastmod: 2023-05-27T21:00:00Z
 description: "My reading history"
-featured_image: ""
-lastmod: 2022-05-19T14:00:00Z
 tags: []
 title: "Books"
 type: "static"
@@ -14,10 +12,11 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Stolen Focus** - Johann Hari
+* **Daring Greatly** - Brené Brown
 
 ## Read
 ### 2023
+* **Stolen Focus** - Johann Hari
 * **The Dawn of Everything** - David Graeber & David Wengrow ★★★★★
 * **Socialism or Barbarism** - Rosa Luxemburg ★★★★
 * **Call of Cthulhu Keeper Rulebook** - Sandy Petersen ★★★
@@ -80,7 +79,7 @@ menu:
 * **My Work is Not Yet Done** - Thomas Ligotti ★★
 * **Eenheidscongres 2021** - PVDA ★★★★
 * **Foucault's Pendulum** - Umberto Eco ★★★★★
-* **Tentacles Longer Than Night** - Eugene Thacker ★★★
+* **Tentacles Longer Than Night (Horror of Philosophy 3)** - Eugene Thacker ★★★
 * **The Great God Pan** - Arthur Machen ★★
 * **The Rats in the Walls** - H. P. Lovecraft ★★★
 * **Story of the Eye** - Georges Bataille ★★★
@@ -208,6 +207,7 @@ menu:
 * **The Left Hand of Darkness** - Ursula K. Le Guin ★★★★
 * **Hitler's Monsters** - Eric Kurlander ★★★★
 * **Monday Starts on Saturday** - Arkady & Boris Strugatsky ★★★★
+* **The Conspiracy against the Human Race** - Thomas Ligotti ★★★★
 * **Ten Days that Shook the World** - John Reed ★★★★
 * **Failure of a Revolution: Germany 1918-1919** - Sebastian Haffner ★★★★★
 
