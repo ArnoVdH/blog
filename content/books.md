@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2023-05-27T21:00:00Z
+lastmod: 2023-06-07T21:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,11 +12,12 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Daring Greatly** - Brené Brown
+* **The Secret of Ventriloquism** - Jon Padgett
 
 ## Read
 ### 2023
-* **Stolen Focus** - Johann Hari
+* **Daring Greatly** - Brené Brown ★★★
+* **Stolen Focus** - Johann Hari ★★★★
 * **The Dawn of Everything** - David Graeber & David Wengrow ★★★★★
 * **Socialism or Barbarism** - Rosa Luxemburg ★★★★
 * **Call of Cthulhu Keeper Rulebook** - Sandy Petersen ★★★
