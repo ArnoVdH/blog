@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2023-06-07T21:00:00Z
+lastmod: 2023-08-08T18:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,10 +12,15 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **The Secret of Ventriloquism** - Jon Padgett
+* **On Cats: An Anthology** - Margaret Atwoord (editor)
+* **Less Is More** - Jason Hickel
 
 ## Read
 ### 2023
+* **The Next Revolution** - Murray Bookchin ★★★
+* **Laurus** - Eugine Vodolazkin ★★★★
+* **Worlds of Exile and Illusion** - Ursula K. Le Guin ★★★★
+* **The Secret of Ventriloquism** - Jon Padgett ★★★★
 * **Daring Greatly** - Brené Brown ★★★
 * **Stolen Focus** - Johann Hari ★★★★
 * **The Dawn of Everything** - David Graeber & David Wengrow ★★★★★
