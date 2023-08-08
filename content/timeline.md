@@ -11,6 +11,7 @@ menu: "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 42 kB PDF).
 
 ### 2023
+* Participated in a Code Rouge-Rood occupation of a building site
 * Started taking antidepressants again
 * Backpacking trip in Brittany, France
 * Citytrip to Amsterdam, the Netherlands
