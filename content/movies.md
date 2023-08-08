@@ -1,5 +1,6 @@
 ---
 date: 2020-01-16T21:05:00Z
+lastmod: 2023-08-08T18:00:00Z
 description: "A list of good movies in chronological order"
 featured_image: ""
 tags: []
@@ -212,3 +213,4 @@ Lesson learned by making this list: I need to watch more older movies.
 * 2021: **The French Dispatch** - Wes Anderson
 * 2021: **The Green Knight** - David Lowery
 * 2022: **Triangle of Sadness** - Ruben Östlund
+* 2023: **Asteroid City** - Wes Anderson
