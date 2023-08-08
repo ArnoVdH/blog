@@ -1,7 +1,7 @@
 ---
 title:  "Links"
 date: 2019-07-08T22:15:02+02:00
-lastmod: 2021-04-21T19:30:00Z
+lastmod: 2023-08-08T18:00:00Z
 tags: []
 featured_image: ""
 description: "Links to sites I recommend"
