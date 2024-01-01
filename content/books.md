@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2023-08-08T18:00:00Z
+lastmod: 2024-01-01T16:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,11 +12,23 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **On Cats: An Anthology** - Margaret Atwoord (editor)
-* **Less Is More** - Jason Hickel
+* **The Failure of Nonviolence** - Peter Gelderloos
+* **Collected Ghost Stories** - M.R. James
 
 ## Read
 ### 2023
+* **Quotations from Chairman Mao Tse-tung** - Mao Zedong ★★
+* **The Penguin History of Modern China** - Jonathan Fenby ★★
+* **Less Is More** - Jason Hickel ★★★★
+* **Noctuary** - Thomas Ligotti ★★★ 
+* **The Lighthouse Witches** - C.J. Cooke ★★
+* **Climate Change as Class War** - Matthew T. Huber ★★★★
+* **A Very British Coup** - Chris Mullin ★★★
+* **The Glassy, Burning Floor of Hell** - Brian Evenson ★★★
+* **The Third Reich** - Roberto Bolaño ★★★
+* **This Is Not A Drill** - Extinction Rebellion ★★★
+* **Perv** - Jesse Bering ★★★
+* **On Cats: An Anthology** - Margaret Atwoord (editor) ★★
 * **The Next Revolution** - Murray Bookchin ★★★
 * **Laurus** - Eugine Vodolazkin ★★★★
 * **Worlds of Exile and Illusion** - Ursula K. Le Guin ★★★★
