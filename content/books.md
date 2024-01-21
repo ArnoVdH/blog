@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-01-01T16:00:00Z
+lastmod: 2024-01-21T16:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,10 +12,14 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **The Failure of Nonviolence** - Peter Gelderloos
+* **A Wizard of Earthsea** (Earthsea Cycle) - Ursula K. Le Guin
+* **Thinking In Systems** - Donella Meadows
 * **Collected Ghost Stories** - M.R. James
 
 ## Read
+### 2024
+* **The Failure of Nonviolence** - Peter Gelderloos ★★★
+
 ### 2023
 * **Quotations from Chairman Mao Tse-tung** - Mao Zedong ★★
 * **The Penguin History of Modern China** - Jonathan Fenby ★★
