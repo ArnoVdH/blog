@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-01-21T16:00:00Z
+lastmod: 2024-02-21T12:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,12 +12,15 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **A Wizard of Earthsea** (Earthsea Cycle) - Ursula K. Le Guin
-* **Thinking In Systems** - Donella Meadows
+* **Why Meditate** - Matthieu Ricard
+* **The Freedom to Be Free** - Hannah Arendt
 * **Collected Ghost Stories** - M.R. James
 
 ## Read
 ### 2024
+* **The Uninhabitable Earth** - David Wallace-Wells ★★★
+* **Thinking In Systems** - Donella Meadows ★★★
+* **A Wizard of Earthsea** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
 * **The Failure of Nonviolence** - Peter Gelderloos ★★★
 
 ### 2023
