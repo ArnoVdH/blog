@@ -1,6 +1,6 @@
 ---
 date: 2019-09-15T13:33:00Z
-lastmod: 2023-08-08T18:00:00Z
+lastmod: 2024-02-21T12:00:00Z
 description: "An overview of my life"
 featured_image: ""
 tags: []
@@ -11,6 +11,9 @@ menu: "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 42 kB PDF).
 
 ### 2023
+* Participated in Code Rouge-Rood 3 (my second time) in Antwerp - got peppersprayed
+* Started seeing a therapist again
+* Got arrested for the first time in my life during a civil disobedient action
 * Participated in a Code Rouge-Rood occupation of a building site
 * Started taking antidepressants again
 * Backpacking trip in Brittany, France
