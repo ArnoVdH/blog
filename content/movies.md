@@ -13,6 +13,7 @@ menu:
     weight: 30
 ---
 ### 2024
+- **Farha** (2021) - Darin J. Sallam ★★★
 - **Poor Things** (2023) - Yorgos Lanthimos ★★★★★
 
 ### 2023
