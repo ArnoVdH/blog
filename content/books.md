@@ -12,12 +12,13 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Why Meditate** - Matthieu Ricard
+* **The Tombs of Atuan** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
 * **The Freedom to Be Free** - Hannah Arendt
 * **Collected Ghost Stories** - M.R. James
 
 ## Read
 ### 2024
+* **Why Meditate** - Matthieu Ricard ★★★
 * **The Uninhabitable Earth** - David Wallace-Wells ★★★
 * **Thinking In Systems** - Donella Meadows ★★★
 * **A Wizard of Earthsea** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
