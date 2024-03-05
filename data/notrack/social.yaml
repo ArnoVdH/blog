@@ -441,7 +441,7 @@ researchgate:
 # 056: Mastodon
 mastodon:
   weight: 56
-  prefix: https://ondergrond.org/
+  prefix: https://climatejustice.social/
   title: Mastodon
   icon:
     class: fab fa-mastodon fa-fw
