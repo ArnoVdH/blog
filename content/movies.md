@@ -13,6 +13,8 @@ menu:
     weight: 30
 ---
 ### 2024
+- **THe Baader Meinhof Complex** (2008) - Uli Edel ★★★★
+- **Dune: Part Two** (2024) - Denis Villeneuve ★★★★
 - **Farha** (2021) - Darin J. Sallam ★★★
 - **Poor Things** (2023) - Yorgos Lanthimos ★★★★★
 
@@ -72,7 +74,7 @@ menu:
 - **Fantastic Fungi** (2019) - Louie Schartzberg ★
 - **Le violon rouge (1998)** - François Girard ★★★★
 - **K-19: The Widowmaker** (2002) - Kathryn Bigelow ★★★
-- **Dune** (2021) - Denis Villeneuve ★★★
+- **Dune: Part One** (2021) - Denis Villeneuve ★★★
 - **Angel Heart** (1987) - Alan Parker ★★★
 - **In the Heart of the Sea** (2015) - Ron Howard ★★
 - **Constantine** (2005) - Francis Lawrence ★★
