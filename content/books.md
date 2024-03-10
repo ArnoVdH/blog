@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-02-21T12:00:00Z
+lastmod: 2024-03-10T12:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,12 +12,15 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **The Tombs of Atuan** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
+* **De ongelijkheidsmachine** - Paul Goossens
 * **The Freedom to Be Free** - Hannah Arendt
 * **Collected Ghost Stories** - M.R. James
 
 ## Read
 ### 2024
+* **Ten Myths About Israel** - Ilan Pappé ★★★★
+* **I Could Do Anything If I ONly Knew What It Was** - Barbara Sher & Barbara Smith ★★★
+* **The Tombs of Atuan** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
 * **Why Meditate** - Matthieu Ricard ★★★
 * **The Uninhabitable Earth** - David Wallace-Wells ★★★
 * **Thinking In Systems** - Donella Meadows ★★★
