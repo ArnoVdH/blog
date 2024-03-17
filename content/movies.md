@@ -13,6 +13,8 @@ menu:
     weight: 30
 ---
 ### 2024
+- **The Wonderful Story of Henry Sugar** (2023) - Wes Anderson ★★★
+- **Saltburn** (2023) - Emerald Fennell ★★★
 - **THe Baader Meinhof Complex** (2008) - Uli Edel ★★★★
 - **Dune: Part Two** (2024) - Denis Villeneuve ★★★★
 - **Farha** (2021) - Darin J. Sallam ★★★
