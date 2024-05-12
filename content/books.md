@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-04-28T12:00:00Z
+lastmod: 2024-05-12T12:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,12 +12,13 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Revolting Prostitutes** - Molly Smith & Juno Mac
-* **The Freedom to Be Free** - Hannah Arendt
+* **The Complete Symphonies of Adolf Hitler & Other Strange Stories** - Reggie Oliver
 * **Collected Ghost Stories** - M.R. James
 
 ## Read
 ### 2024
+* **The Freedom to Be Free** - Hannah Arendt ★★★
+* **Revolting Prostitutes** - Molly Smith & Juno Mac ★★★★★
 * **The Deluge** - Stephen Markley ★★★★
 * **Muiterij** - Peter Mertens ★★★
 * **The Farthest Shore** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
