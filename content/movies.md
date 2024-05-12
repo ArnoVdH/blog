@@ -1,6 +1,6 @@
 ---
 date: 2024-01-21T18:25:00Z
-lastmod: 2024-04-28T12:00:00Z
+lastmod: 2024-05-12T12:00:00Z
 description: "My movie history"
 featured_image: ""
 tags: []
@@ -13,6 +13,7 @@ menu:
     weight: 30
 ---
 ### 2024
+- **Napoleon Dynamite** (2004) - Jared Hess ★★
 - **Civil War** (2024) - Alex Garland ★★★★
 - **The Wonderful Story of Henry Sugar** (2023) - Wes Anderson ★★★
 - **Saltburn** (2023) - Emerald Fennell ★★★
