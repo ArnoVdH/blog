@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-05-12T12:00:00Z
+lastmod: 2024-05-14T12:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,11 +12,12 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **The Complete Symphonies of Adolf Hitler & Other Strange Stories** - Reggie Oliver
+* **Hope in the Dark** - Rebecca Solnit
 * **Collected Ghost Stories** - M.R. James
 
 ## Read
 ### 2024
+* **The Complete Symphonies of Adolf Hitler & Other Strange Stories** - Reggie Oliver ★★★★
 * **The Freedom to Be Free** - Hannah Arendt ★★★
 * **Revolting Prostitutes** - Molly Smith & Juno Mac ★★★★★
 * **The Deluge** - Stephen Markley ★★★★
