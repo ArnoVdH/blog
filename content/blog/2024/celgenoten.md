@@ -5,14 +5,14 @@ categories:
   - "Dutch"
   - "Nederlands"
 date: 2024-05-07T21:13:25Z
-lastmod: 2024-05-13T12:00:00Z
+lastmod: 2024-05-14T12:00:00Z
 description: ""
 featured_image: ""
 draft: false
 ---
-Een avondje samen in het cachot schept een band. In canon liederen zingen met de naburige cel, lachen met de flikken en nieuwe boodschappen kerven op de muren van de aftandse kazerne, het zijn maar enkele van de vele activiteiten waarmee we de tijd doden terwijl we wachten om 'verwerkt' te worden door ons inefficiënte politionele systeem. Je celgenoten worden al snel kameraden, ook al heb je in het verdere leven weinig met elkaar gemeen. Je bent niet alleen.
+Een avondje samen in het cachot schept een band. In canon liederen zingen met de naburige cel, lachen met de flikken en nieuwe boodschappen kerven op de muren van de aftandse kazerne, het zijn maar enkele van de vele activiteiten waarmee we de tijd doden terwijl we wachten om 'verwerkt' te worden door ons inefficiënte politionele systeem. Je celgenoten worden al snel kameraden, ook al heb je in het verdere leven weinig met elkaar gemeen. Je bent tenminste niet alleen.
 <!--more-->
-Maar niet lang daarvoor, terwijl ik geboeid, in de gietende regen op het asfalt gedeponeerd wordt door twee zwaar uitgeruste agenten en ik de passanten wat vreemd naar ons zie kijken, zat ik me nog af te vragen wat dit soort acties voor nut heeft. Straten blokkeren, wordt daar iemand eigenlijk beter van? Ik alleszins niet: ik heb koud en nat, m'n schouders doen pijn, mijn mede-activisten kan ik niet helpen. We zijn allemaal hulpeloos, we kunnen noch geven noch krijgen terwijl we nochtans willen en bij elkaar zijn.
+Maar niet lang daarvoor, terwijl ik geboeid, in de gietende regen op het asfalt gedeponeerd wordt door twee zwaar uitgeruste agenten en ik de passanten wat vreemd naar ons zie kijken, zat ik me nog af te vragen wat dit soort acties voor nut heeft. Straten blokkeren, wordt daar iemand eigenlijk beter van? Ik alleszins niet: ik heb het koud en nat, m'n schouders doen pijn, mijn mede-activisten kan ik niet helpen. We zijn allemaal hulpeloos, we kunnen noch geven noch krijgen terwijl we nochtans willen en bij elkaar zijn.
 
 Op het nieuws zullen wel weer vox populi fragmenten verschijnen (en haar ranzige variant, de online-commentaar) van kwade automobilisten en passanten die zeggen dat het 'de zaak niet helpt'. Daar is zo wat iedereen het over eens, voor- en tegenstanders: verstorende, burgerlijk ongehoorzame acties helpen niet. Denkt men. Zegt men. Buikgevoel.
 
