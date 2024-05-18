@@ -13,6 +13,7 @@ menu:
     weight: 30
 ---
 ### 2024
+* **La Chimera** (2023) - Alice Rohrwacher ★★★
 * **Good Luck to You, Leo Grande** (2022) - Sophie Hyde ★★★
 * **La Commune (Paris, 1871)** (2000) - Peter Watkins ★★★
 * **Napoleon Dynamite** (2004) - Jared Hess ★★
