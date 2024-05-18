@@ -1,6 +1,6 @@
 ---
 date: 2024-01-21T18:25:00Z
-lastmod: 2024-05-17T12:00:00Z
+lastmod: 2024-05-18T12:00:00Z
 description: "My movie history"
 featured_image: ""
 tags: []
@@ -19,7 +19,7 @@ menu:
 * **Civil War** (2024) - Alex Garland ★★★★
 * **The Wonderful Story of Henry Sugar** (2023) - Wes Anderson ★★★
 * **Saltburn** (2023) - Emerald Fennell ★★★
-* **THe Baader Meinhof Complex** (2008) - Uli Edel ★★★★
+* **The Baader Meinhof Complex** (2008) - Uli Edel ★★★★
 * **Dune: Part Two** (2024) - Denis Villeneuve ★★★★
 * **Farha** (2021) - Darin J. Sallam ★★★
 * **Poor Things** (2023) - Yorgos Lanthimos ★★★★★
