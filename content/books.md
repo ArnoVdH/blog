@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-05-14T12:00:00Z
+lastmod: 2024-05-19T12:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,18 +12,18 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Hope in the Dark** - Rebecca Solnit
 * **Collected Ghost Stories** - M.R. James
 
 ## Read
 ### 2024
+* **Hope in the Dark** - Rebecca Solnit ★★★
 * **The Complete Symphonies of Adolf Hitler & Other Strange Stories** - Reggie Oliver ★★★★
 * **The Freedom to Be Free** - Hannah Arendt ★★★
 * **Revolting Prostitutes** - Molly Smith & Juno Mac ★★★★★
 * **The Deluge** - Stephen Markley ★★★★
 * **Muiterij** - Peter Mertens ★★★
 * **The Farthest Shore** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
-* **De ongelijkheidsmachine** - Paul Goossens
+* **De ongelijkheidsmachine** - Paul Goossens ★★★
 * **Ten Myths About Israel** - Ilan Pappé ★★★★
 * **I Could Do Anything If I ONly Knew What It Was** - Barbara Sher & Barbara Smith ★★★
 * **The Tombs of Atuan** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
