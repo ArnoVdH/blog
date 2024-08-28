@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-05-19T12:00:00Z
+lastmod: 2024-08-28T12:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,10 +12,22 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Collected Ghost Stories** - M.R. James
+* **Imperialism** - Vladimir Lenin
+* **Tehanu** (Earthse Cycle) - Ursula K. Le Guin
 
 ## Read
 ### 2024
+* **The Book of Elsewhere** - Keanu Reeves & China Miéville ★★
+* **Driven to Distraction** - Edward Hallowell & John Ratey ★★★★
+* **The Quincunx** - Charles Palliser ★★★
+* **An Idea Can Go Extinct** - Bill McKibben ★★★
+* **Enchiridion** - Epictetus ★★★
+* **Punktown** - Jeffrey Thomas ★★★
+* **All Art is Ecological** - Timothy Morton ★★★
+* **The Day of the Triffids** - John Wyndham ★★★
+* **The Carpet Makers** - Andres Eschbach ★★★
+* **Collected Ghost Stories** - M.R. James ★★★
+* **What We Don't Talk About When We Talk About Fat** - Aubrey Gordon ★★★★
 * **Hope in the Dark** - Rebecca Solnit ★★★
 * **The Complete Symphonies of Adolf Hitler & Other Strange Stories** - Reggie Oliver ★★★★
 * **The Freedom to Be Free** - Hannah Arendt ★★★
