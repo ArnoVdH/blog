@@ -1,9 +1,10 @@
 ---
 title: Klimaatbangmakerij
 categories:
-  - "personal"
+  - "Personal"
   - "Dutch"
   - "Nederlands"
+  - "Climate"
 date: 2024-08-07T21:13:25Z
 lastmod: 2024-08-07T21:13:25Z
 description: ""
