@@ -1,6 +1,6 @@
 ---
 date: 2019-09-15T13:33:00Z
-lastmod: 2024-02-21T12:00:00Z
+lastmod: 2024-08-28T12:00:00Z
 description: "An overview of my life"
 featured_image: ""
 tags: []
@@ -9,6 +9,13 @@ type: "static"
 menu: "about"
 ---
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 42 kB PDF).
+
+### 2024
+* Changed jobs to another department as IT project manager
+* Started taking Ritalin
+* Went on a hiking trip in the Black Forest, Germany
+* Followed a course in mindfulness
+* Helped organize a few civil disobedient actions in Brussels
 
 ### 2023
 * Participated in Code Rouge-Rood 3 (my second time) in Antwerp - got peppersprayed
