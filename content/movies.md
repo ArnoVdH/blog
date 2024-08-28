@@ -13,6 +13,8 @@ menu:
     weight: 30
 ---
 ### 2024
+* **My Neighbor Totoro** - Hayao Miyazaki ★★★★
+* **Kinds of Kindness** (2024) - Yorgos Lanthimos ★★★★
 * **La Chimera** (2023) - Alice Rohrwacher ★★★
 * **Good Luck to You, Leo Grande** (2022) - Sophie Hyde ★★★
 * **La Commune (Paris, 1871)** (2000) - Peter Watkins ★★★
