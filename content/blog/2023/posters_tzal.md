@@ -17,7 +17,7 @@ During a few years I was a member, I did the visual side of operations, designin
 {{< image frame="true" width="90%" style="max-height: 90vh;" src="img/blog/posters/2_Openingsdebat2011.jpg" alt="Opening debate 2011" >}}
 **Opening debate 2011**
 
-{{< image frame="true" height="90%" style="max-height: 90vh;" src="img/blog/posters/3_Gescinska.jpg" alt="Alicja Gescinska on Catholic sexual morality" >}}
+{{< image frame="true" width="90%" style="max-height: 90vh;" src="img/blog/posters/3_Gescinska.jpg" alt="Alicja Gescinska on Catholic sexual morality" >}}
 **Alicja Gescinska on Catholic sexual morality**  I redesigned our visual style to be easily adaptable; based upon the ideas of Jan Tschichold.
 
 {{< image frame="true" width="90%" style="max-height: 90vh;" src="img/blog/posters/4_VerhaegeIdentiteit.jpg" alt="Paul Verhaeghe on Identity" >}}
