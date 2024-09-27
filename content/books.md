@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-08-28T12:00:00Z
+lastmod: 2024-09-27T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,11 +12,14 @@ menu:
     weight: 10
 ---
 ## Currently reading
+* **In het spoor van Fanon** - Koen Bogaert
 * **Imperialism** - Vladimir Lenin
-* **Tehanu** (Earthse Cycle) - Ursula K. Le Guin
 
 ## Read
 ### 2024
+* **The Infernal Desire Machines of Doctor Hoffman** - Angela Carter ★★★★
+* **Tehanu** (Earthse Cycle) - Ursula K. Le Guin ★★★★
+* **Bij twijfel, altijd noord** - Sien Volders ★★★
 * **The Book of Elsewhere** - Keanu Reeves & China Miéville ★★
 * **Driven to Distraction** - Edward Hallowell & John Ratey ★★★★
 * **The Quincunx** - Charles Palliser ★★★
