@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-09-27T01:00:00Z
+lastmod: 2024-11-03T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,11 +12,13 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **In het spoor van Fanon** - Koen Bogaert
+* **The Monkey Wrench Gang** - Edward Abbey
 * **Imperialism** - Vladimir Lenin
 
 ## Read
 ### 2024
+* **Fascism and Democracy** - George Orwell ★★★★
+* **In het spoor van Fanon** - Koen Bogaert ★★★★
 * **The Infernal Desire Machines of Doctor Hoffman** - Angela Carter ★★★★
 * **Tehanu** (Earthse Cycle) - Ursula K. Le Guin ★★★★
 * **Bij twijfel, altijd noord** - Sien Volders ★★★
