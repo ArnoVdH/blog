@@ -1,6 +1,6 @@
 ---
 date: "2019-09-22T10:00:00.000+02:00"
-lastmod: 2021-04-21T17:50:00Z
+lastmod: 2021-11-19T17:50:00Z
 description: "A list of games I play(ed)"
 featured_image: ""
 tags: []
@@ -13,69 +13,83 @@ menu:
     weight: 20
 ---
 ## Tabletop role-playing & board games
-* 2004: **Call of C'thulhu, 6th edition** (RPG)
-* 2004: **Warhammer Fantasy Roleplay, 2nd edition** (RPG)
-* 2005: **Twilight Struggle** (board game)
-* 2005: **Arkham Horror** (board game)
-* 2009: **Warhammer 40.000: Rogue Trader** (RPG)
-* 2009: **Shadowrun, 20th Anniversary** (RPG)
-* 2016: **Mythos Tales** (board game)
+* **Call of C'thulhu, 6th edition** (2004)
+* **Warhammer Fantasy Roleplay, 2nd edition** (2004)
+* **Twilight Struggle** (2005)
+* **Arkham Horror** (2005)
+* **Warhammer 40.000: Rogue Trader** (2009)
+* **Shadowrun, 20th Anniversary** (2009)
+* **Mythos Tales** (2016)
 
 ## Computer Games
-* 1997: **The Curse of Monkey Island** - LucasArts
-* 1997: **Blood** - Monolith Productions
-* 1998: **Half-Life** - Valve
-* 2000: **Giants: Citizen Kabuto** - Planet Moon Studios
-* 2001: **Uplink** - Introversion Software
-* 2002: **The Elder Scrolls III: Morrowind** - Bethesda
-* 2002: **Medal of Honor: Allied Assault** - 2015, Inc.
-* 2002: **Mafia** - Illusion Softworks
-* 2003: **Command & Conquer: Generals** - EA Pacific
-* 2004: **Half-Life 2** - Valve
-* 2004: **Warhammer: Dawn of War** - Relic Entertainment
-* 2005: **Darwinia** - Introversion Software
-* 2005: **Guild Wars** - ArenaNet
-* 2006: **Titan Quest** - Iron Lore
-* 2007: **Portal** - Valve
-* 2007: **BioShock** - 2K
-* 2007: **World in Conflict** - Massive Entertainment
-* 2007: **S.T.A.L.K.E.R.: Shadow of Chernobyl** - GSC Game World
-* 2008: **Mirror's Edge** - DICE
-* 2008: **Mount & Blade** - TaleWorlds Entertainment
-* 2009: **Borderlands** - Gearbox Software
-* 2010: **Victoria II** - Paradox
-* 2010: **Amnesia: The Dark Descent** - Frictional Games
-* 2010: **Metro 2033** - 4A Games
-* 2011: **The Stanley Parable** Galactic Cafe
-* 2011: **Portal 2** - Valve
-* 2011: **Red Orchestra 2** - Tripwire Interactive
-* 2012: **Shogun: Total War 2 - Fall of the Samurai** - Creative Assembly
-* 2012: **Dishonored** - Arkane Studios
-* 2012: **Hotline Miami** - Dennaton Games
-* 2013: **Papers, Please** - Lucas Pope
-* 2013: **Europa Universalis IV** - Paradox
-* 2013: **Metro: Last Light** - 4A Games
-* 2013: **BioShock Infinite** - Irrational Games
-* 2013: **Kerbal Space Program** - Squad
-* 2014: **Wolfenstein: The New Order & The Old Blood** - MachineGames
-* 2014: **Shadowrun: Dragonfall** - Harebrained Schemes
-* 2015: **The Witcher 3: Wild Hunt** - CD Projekt Red
-* 2015: **Cities: Skylines** - Colossal Order
-* 2015: **Hacknet** - Team Fractal Alligator
-* 2016: **Hearts of Iron IV** - Paradox
-* 2016: **Grim Dawn** - Crate Entertainment
-* 2017: **Rising Storm 2: Vietnam** - Tripwire Interactive
-* 2017: **Assassin's Creed Origins** - Ubisoft Montreal
-* 2018: **Subnautica** - Unknown Worlds Entertainment
-* 2018: **Red Dead Redemption 2** - Rockstar Games
-* 2018: **Kingdom Come: Deliverance** - Warhorse Studios
-* 2018: **Frostpunk** - 11 bit studios
-* 2019: **Return of the Obra Dinn** - Lucas Pope
-* 2019: **Disco Elysium** - ZA/UM
-* 2019: **Workers & Resources: Soviet Republic** - 3Division
-* 2019: **Anno 1800** - Blue Byte
-* 2019: **Metro Exodus** - 4A Games
-* 2020: **Cyberpunk 2077** - CD Projekt Red
-* 2022: **Victoria 3** - Paradox
-* 2023: **Dredge** - Black Salt Games
-* 2023: **The Invincible** - Starward Industries
+* **The Curse of Monkey Island** (1997) - LucasArts
+* **Blood** (1997) - Monolith Productions
+* **Half-Life** (1998) - Valve
+* **Giants: Citizen Kabuto** (2000) - Planet Moon Studios
+* **Uplink** (2001) - Introversion Software
+* **The Elder Scrolls III: Morrowind** (2002) - Bethesda
+* **Medal of Honor: Allied Assault** (2002) - 2015, Inc.
+* **Mafia** (2002) - Illusion Softworks
+* **Command & Conquer: Generals** (2003) - EA Pacific
+* **Half-Life 2** (2004) - Valve
+* **Warhammer: Dawn of War** (2004) - Relic Entertainment
+* **Darwinia** (2005) - Introversion Software
+* **Guild Wars** (2005) - ArenaNet
+* **Psychonauts** (2005) - Double Fine Productions
+* **Titan Quest** (2006) - Iron Lore
+* **Portal** (2007) - Valve
+* **BioShock** (2007) - 2K
+* **World in Conflict** (2007) - Massive Entertainment
+* **S.T.A.L.K.E.R.: Shadow of Chernobyl** (2007) - GSC Game World
+* **Mass Effect** (2007) - BioWare
+* **Crysis** (2007) - Crytek
+* **Mirror's Edge** (2008) - DICE
+* **Mount & Blade** (2008) - TaleWorlds Entertainment
+* **Left 4 Dead** (2008) - Turtle Rock Studios
+* **Borderlands** (2009) - Gearbox Software
+* **Victoria II** (2010) - Paradox
+* **Amnesia: The Dark Descent** (2010) - Frictional Games
+* **Metro 2033** (2010) - 4A Games
+* **Mass Effect 2** (2010) - BioWare
+* **The Stanley Parable** (2011) - Galactic Cafe
+* **Portal 2** (201)1 - Valve
+* **Red Orchestra 2** (2011) - Tripwire Interactive
+* **Space Marine** (2011) - Relic Entertainment
+* **Shogun: Total War 2 - Fall of the Samurai** (2012) - Creative Assembly
+* **Dishonored** (2012) - Arkane Studios
+* **Hotline Miami** (2012) - Dennaton Games
+* **Papers, Please** (2013) - Lucas Pope
+* **Europa Universalis IV** (2013) - Paradox
+* **Metro: Last Light** (2013) - 4A Games
+* **BioShock Infinite** (2013) - Irrational Games
+* **Kerbal Space Program** (2013) - Squad
+* **Wolfenstein: The New Order & The Old Blood** (2014) - MachineGames
+* **Shadowrun: Dragonfall** (2014) - Harebrained Schemes
+* **Elite Dangerous** (2014) - Frontier Developments
+* **The Witcher 3: Wild Hunt** (2015) - CD Projekt Red
+* **Cities: Skylines** (2015) - Colossal Order
+* **Hacknet** (2015) - Team Fractal Alligator
+* **Hearts of Iron IV** (2016) - Paradox
+* **Grim Dawn** (2016) - Crate Entertainment
+* **Rising Storm 2: Vietnam** (2017) - Tripwire Interactive
+* **Assassin's Creed Origins** (2017) - Ubisoft Montreal
+* **Subnautica** (2018) - Unknown Worlds Entertainment
+* **Red Dead Redemption 2** (2018) - Rockstar Games
+* **Kingdom Come: Deliverance** (2018) - Warhorse Studios
+* **Frostpunk** (2018) - 11 bit studios
+* **Unavowed** (2018) - Wadjet Eye Games
+* **Sea of Thieves** (2018) - Rare
+* **Egypt: Old Kingdom** (2018) - Clarus Victoria
+* **Return of the Obra Dinn** (2019) - Lucas Pope
+* **Disco Elysium** (2019) - ZA/UM
+* **Workers & Resources: Soviet Republic** (2019) - 3Division
+* **Anno 1800** (2019) - Blue Byte
+* **Metro Exodus** (2019) - 4A Games
+* **Cyberpunk 2077** - (2020) CD Projekt Red
+* **Victoria 3** (2022) - Paradox
+* **Darktide** (2022) - Fatshark
+* **Vampire Survivors** (2022) - Poncle, Ltd.
+* **Sucker for Love** (2022) - Akabaka
+* **Dredge** - (2023) Black Salt Games
+* **The Invincible** (2023) - Starward Industries
+

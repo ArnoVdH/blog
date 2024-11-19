@@ -1,7 +1,7 @@
 ---
 title:  "Links"
 date: 2019-07-08T22:15:02+02:00
-lastmod: 2023-08-08T18:00:00Z
+lastmod: 2024-11-19T18:00:00Z
 tags: []
 featured_image: ""
 description: "Links to sites I recommend"
@@ -54,3 +54,4 @@ weight: 40
 ## Sites
 * [AlternativeTo](https://alternativeto.net/): great website to find alternatives to software and sites, with the option to filter for free and open-source versions.
 * [ProtonDB](https://www.protondb.com/): unofficial database to check how well you can expect games to run under Proton on Linux, with lots of tips to get a game working.
+* [OpenStreetMap](https://www.openstreetmap.org/): an open and collaberative project to map the entire world!

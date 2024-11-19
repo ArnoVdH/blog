@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-11-03T01:00:00Z
+lastmod: 2024-11-19T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,11 +12,15 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **The Monkey Wrench Gang** - Edward Abbey
-* **Imperialism** - Vladimir Lenin
+* **Empire of Normality** - Robert Chapman
 
 ## Read
 ### 2024
+* **Elementaire principes van oorlogspropaganda** - Anne Morelli ★★★
+* **Uncanny and Improbable Events** - Amitav Ghosh ★★★★
+* **Hyperpolitiek** - Anton Jäger ★★★★
+* **The Jakarta Method** - Vincent Bevins ★★★★
+* **The Monkey Wrench Gang** - Edward Abbey ★★★
 * **Fascism and Democracy** - George Orwell ★★★★
 * **In het spoor van Fanon** - Koen Bogaert ★★★★
 * **The Infernal Desire Machines of Doctor Hoffman** - Angela Carter ★★★★
