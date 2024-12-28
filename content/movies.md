@@ -1,6 +1,6 @@
 ---
 date: 2024-01-21T18:25:00Z
-lastmod: 2024-11-03T12:00:00Z
+lastmod: 2024-12-28T12:00:00Z
 description: "My movie history"
 featured_image: ""
 tags: []
@@ -13,6 +13,7 @@ menu:
     weight: 30
 ---
 ### 2024
+* **Nosferatu** (2024) - Robert Eggers ★★★★★
 * **Lee** (2023) - Ellen Kuras ★★★
 * **Direct Action** (2024) - Guillaume Cailleau & Ben Russell ★
 * **Fail Safe** (1964)- Sidney Lumet ★★★★
