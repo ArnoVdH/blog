@@ -17,10 +17,10 @@ menu:
 
 ## Read
 ### 2024
-* **The Necrophiliac** Gabrielle Wittkop
-* **Zijde** Alessandro Baricco
-* **Briefing for a Descent Into Hell** - Doris Lessing
-* **Empire of Normality** - Robert Chapman
+* **The Necrophiliac** Gabrielle Wittkop ★★★★
+* **Zijde** Alessandro Baricco ★★★★
+* **Briefing for a Descent Into Hell** - Doris Lessing ★★★★
+* **Empire of Normality** - Robert Chapman ★★★★
 * **Elementaire principes van oorlogspropaganda** - Anne Morelli ★★★
 * **Uncanny and Improbable Events** - Amitav Ghosh ★★★★
 * **Hyperpolitiek** - Anton Jäger ★★★★
