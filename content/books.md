@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-11-19T01:00:00Z
+lastmod: 2024-12-28T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,10 +12,15 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Empire of Normality** - Robert Chapman
+* **Songs of a Dead Dreamer & Grimscribe** - Thomas Ligotti
+* **Slow Down** - Kohei Saito
 
 ## Read
 ### 2024
+* **The Necrophiliac** Gabrielle Wittkop
+* **Zijde** Alessandro Baricco
+* **Briefing for a Descent Into Hell** - Doris Lessing
+* **Empire of Normality** - Robert Chapman
 * **Elementaire principes van oorlogspropaganda** - Anne Morelli ★★★
 * **Uncanny and Improbable Events** - Amitav Ghosh ★★★★
 * **Hyperpolitiek** - Anton Jäger ★★★★
