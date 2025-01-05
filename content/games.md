@@ -1,6 +1,6 @@
 ---
 date: "2019-09-22T10:00:00.000+02:00"
-lastmod: 2021-11-19T17:50:00Z
+lastmod: 2025-05-19T12:00:00Z
 description: "A list of games I play(ed)"
 featured_image: ""
 tags: []
@@ -20,6 +20,7 @@ menu:
 * **Warhammer 40.000: Rogue Trader** (2009)
 * **Shadowrun, 20th Anniversary** (2009)
 * **Mythos Tales** (2016)
+* **Eat the Reich** (2023)
 
 ## Computer Games
 * **The Curse of Monkey Island** (1997) - LucasArts
@@ -85,6 +86,7 @@ menu:
 * **Workers & Resources: Soviet Republic** (2019) - 3Division
 * **Anno 1800** (2019) - Blue Byte
 * **Metro Exodus** (2019) - 4A Games
+* **Hunt: Showdown 1896** (2019) - Crytek
 * **Cyberpunk 2077** - (2020) CD Projekt Red
 * **Victoria 3** (2022) - Paradox
 * **Darktide** (2022) - Fatshark
