@@ -1,12 +1,15 @@
 ---
 title: Overschreden grenzen
 categories:
-  - ""
+  - "Personal"
+  - "Dutch"
+  - "Nederlands"
+  - "Climate"
 date: 2025-05-19T14:00:00
 lastmod: 20250605-1408
 description: 
 featured_image: ""
-draft: true
+draft: false
 ---
 Het onderstaande is een pleidooi dat ik gaf voor de rechtbank, toen ik vervolgd werd voor een banale burgerlijk ongehoorzame actie tegen de luchthaven van Deurne.
 
