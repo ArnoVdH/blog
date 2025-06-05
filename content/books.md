@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2024-12-28T01:00:00Z
+lastmod: 2025-06-05T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,11 +12,25 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Songs of a Dead Dreamer & Grimscribe** - Thomas Ligotti
-* **Slow Down** - Kohei Saito
+* **Roadside Picnic** - Arkady & Boris Strugatsky
+* **Exemplary Departures** - Gabrielle Wittkop
 
 ## Read
+### 2025
+* **Midnight in Chernobyl** - Adam Higginbotham ★★★
+* **Overshoot** - Andreas Malm & Wim Carton ★★★★★
+* **Apocalypsofie** - Lisa Doeland ★★★
+* **Moral Abdication** - Didier Fassin ★★★★
+* **Shubeik Lubeik** - Mohamed Deena ★★★★
+* **Armoede uitgelegd aan mensen met geld** - Tim 'S Jongers ★★★
+* **Come As You Are** - Emily Nagoski ★★★★
+* **I Want a Better Catastrophe** - Andrew Boyd ★★★
+* **Titus Groan** - Mervyn Peake ★★★
+* **The Destruction of Palestine Is the Destruction of the Earth** - Andreas Malm ★★★★★
+* **The People Vs Tech** - Jamie Bartlett ★★
+* **Songs of a Dead Dreamer & Grimscribe** - Thomas Ligotti ★★★★
 ### 2024
+* **Slow Down** - Kohei Saito
 * **The Necrophiliac** Gabrielle Wittkop ★★★★
 * **Zijde** Alessandro Baricco ★★★★
 * **Briefing for a Descent Into Hell** - Doris Lessing ★★★★
