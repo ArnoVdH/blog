@@ -1,7 +1,7 @@
 ---
 title:  "About"
 date: 2019-07-08T22:15:02+02:00
-lastmod: 2024-08-28T00:00:00Z
+lastmod: 2025-07-06T00:00:00Z
 tags: []
 featured_image: ""
 description: "A page about myself"
