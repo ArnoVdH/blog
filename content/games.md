@@ -1,6 +1,6 @@
 ---
 date: "2019-09-22T10:00:00.000+02:00"
-lastmod: 2025-05-19T12:00:00Z
+lastmod: 2025-07-06T01:00:00Z
 description: "A list of games I play(ed)"
 featured_image: ""
 tags: []
