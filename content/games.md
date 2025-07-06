@@ -94,4 +94,5 @@ menu:
 * **Sucker for Love** (2022) - Akabaka
 * **Dredge** - (2023) Black Salt Games
 * **The Invincible** (2023) - Starward Industries
-
+* **Stalker 2** (2024) - GSC Game World
+* **Kingdom Come: Deliverance II** (2025) - Warhorse Studios
