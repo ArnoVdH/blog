@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2025-06-05T01:00:00Z
+lastmod: 2025-07-6T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,11 +12,14 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Roadside Picnic** - Arkady & Boris Strugatsky
 * **Exemplary Departures** - Gabrielle Wittkop
 
 ## Read
 ### 2025
+* **The Drummer and the Great Mountain** - Michael J. Ferguson ★★★
+* **Bloedrood** - Paul Ponsaers ★★★
+* **My Head for a Tree** - Martin Goodman ★★★
+* **Roadside Picnic** - Arkady & Boris Strugatsky ★★★★★
 * **Midnight in Chernobyl** - Adam Higginbotham ★★★
 * **Overshoot** - Andreas Malm & Wim Carton ★★★★★
 * **Apocalypsofie** - Lisa Doeland ★★★
