@@ -1,6 +1,6 @@
 ---
 date: 2024-01-21T18:25:00Z
-lastmod: 2025-01-05T12:00:00Z
+lastmod: 2025-07-06T01:00:00Z
 description: "My movie history"
 featured_image: ""
 tags: []
@@ -12,6 +12,11 @@ menu:
     parent: "About"
     weight: 30
 ---
+### 2025
+* **Lost Highway** (1997) - David Lynch ★★★★
+* **Soundtrack to a Coup d'Etat** (2024) - Johan Grimonprez ★★★★
+* **The Brutalist** (2025) - Brady Corbet ★★★
+
 ### 2024
 * **Memories** (1995) - Katsuhiro Ôtomo ★★★
 * **Nosferatu** (2024) - Robert Eggers ★★★★★
