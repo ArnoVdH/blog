@@ -1,6 +1,6 @@
 ---
 date: 2019-09-15T13:33:00Z
-lastmod: 2025-07-06T00:00:00Z
+lastmod: 2025-08-28T00:00:00Z
 description: "An overview of my life"
 featured_image: ""
 tags: []
@@ -11,6 +11,7 @@ menu: "about"
 For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dutch, 42 kB PDF).
 
 ### 2025
+* Vacation to Poland: Warschau, Krakau & Gdansk
 * Got taken to court and convicted for peaceful protest. Appealed the verdict
 * Code Rouge-Rood 5: occupied Cargill site in the Ghent harbour
 
@@ -20,6 +21,7 @@ For a professional curriculum vitae, click [here](/files/curriculum.pdf) (in Dut
 * Changed jobs to another department as IT project manager
 * Started taking Ritalin
 * Went on a hiking trip in the Black Forest, Germany
+* Shaved my head and went bald
 * Followed a course in mindfulness
 * Helped organize a few civil disobedient actions in Brussels
 
