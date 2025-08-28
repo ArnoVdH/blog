@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2025-07-6T01:00:00Z
+lastmod: 2025-08-28T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,10 +12,16 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Exemplary Departures** - Gabrielle Wittkop
+* **Fifth Sun** - Camilla Townsend
 
 ## Read
 ### 2025
+* **Corpsemouth and Other Autobiographies** - John Langan ★★★★
+* **The Sleep Solution** - W. Chris Winter ★★★★
+* **De herschepping van de democratie** - Ico Maly ★★★★
+* **Everything for Everyone** - M.E. O'Brie & Eman Abdelhadi ★★★
+* **Rats, Lice, and History** - Hans Zinsser ★★
+* **Exemplary Departures** - Gabrielle Wittkop ★★★★
 * **The Drummer and the Great Mountain** - Michael J. Ferguson ★★★
 * **Bloedrood** - Paul Ponsaers ★★★
 * **My Head for a Tree** - Martin Goodman ★★★
