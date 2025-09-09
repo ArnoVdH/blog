@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2025-08-28T01:00:00Z
+lastmod: 2025-09-09T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,10 +12,11 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Fifth Sun** - Camilla Townsend
+* **Desert** - Anonymous
 
 ## Read
 ### 2025
+* **Fifth Sun** - Camilla Townsend ★★★★
 * **Corpsemouth and Other Autobiographies** - John Langan ★★★★
 * **The Sleep Solution** - W. Chris Winter ★★★★
 * **De herschepping van de democratie** - Ico Maly ★★★★
