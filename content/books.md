@@ -1,6 +1,6 @@
 ---
 date: 2019-09-01T08:00:00Z
-lastmod: 2025-09-09T01:00:00Z
+lastmod: 2025-10-19T01:00:00Z
 description: "My reading history"
 tags: []
 title: "Books"
@@ -12,10 +12,16 @@ menu:
     weight: 10
 ---
 ## Currently reading
-* **Desert** - Anonymous
+* **The Long Heat** - Andreas Malm & Wim Carton
+* **The Future of Revolution** - Jasper Bernes
 
 ## Read
 ### 2025
+* **What Feasts at Night** (Sworn Soldier 2) - T. Kingfisher
+* **The Other Wind** (Earthsea Cycle) Ursula K. Le Guin
+* **A Rebel's Guide to Alexandra Kollontai** - Emma Davis
+* **Loving Animals** - Joanna Bourke
+* **Desert** - Anonymous
 * **Fifth Sun** - Camilla Townsend ★★★★
 * **Corpsemouth and Other Autobiographies** - John Langan ★★★★
 * **The Sleep Solution** - W. Chris Winter ★★★★
@@ -39,6 +45,7 @@ menu:
 * **The Destruction of Palestine Is the Destruction of the Earth** - Andreas Malm ★★★★★
 * **The People Vs Tech** - Jamie Bartlett ★★
 * **Songs of a Dead Dreamer & Grimscribe** - Thomas Ligotti ★★★★
+
 ### 2024
 * **Slow Down** - Kohei Saito
 * **The Necrophiliac** Gabrielle Wittkop ★★★★
@@ -53,7 +60,7 @@ menu:
 * **Fascism and Democracy** - George Orwell ★★★★
 * **In het spoor van Fanon** - Koen Bogaert ★★★★
 * **The Infernal Desire Machines of Doctor Hoffman** - Angela Carter ★★★★
-* **Tehanu** (Earthse Cycle) - Ursula K. Le Guin ★★★★
+* **Tehanu** (Earthsea Cycle) - Ursula K. Le Guin ★★★★
 * **Bij twijfel, altijd noord** - Sien Volders ★★★
 * **The Book of Elsewhere** - Keanu Reeves & China Miéville ★★
 * **Driven to Distraction** - Edward Hallowell & John Ratey ★★★★
@@ -112,7 +119,7 @@ menu:
 * **After The Revolution** - Robert Evans ★★
 * **The Shadow over Innsmouth** - H. P. Lovecraft ★★★
 * **The Doomed City** - Arkady & Boris Strugatsky ★★★
-* **What Moves the Dead** - T. Kingfisher ★★★★
+* **What Moves the Dead** (Sworn Soldier 1) - T. Kingfisher ★★★★
 * **Walkaway** - Cory Doctorow ★★
 * **Mr. Penumbra's 24-Hour Bookstore** - Robin Sloan ★
 * **The Utopia of Rules** - David Graeber ★★★★
