@@ -17,11 +17,11 @@ menu:
 
 ## Read
 ### 2025
-* **What Feasts at Night** (Sworn Soldier 2) - T. Kingfisher
-* **The Other Wind** (Earthsea Cycle) Ursula K. Le Guin
-* **A Rebel's Guide to Alexandra Kollontai** - Emma Davis
-* **Loving Animals** - Joanna Bourke
-* **Desert** - Anonymous
+* **What Feasts at Night** (Sworn Soldier 2) - T. Kingfisher ★★★
+* **The Other Wind** (Earthsea Cycle) Ursula K. Le Guin ★★★★
+* **A Rebel's Guide to Alexandra Kollontai** - Emma Davis ★★★
+* **Loving Animals** - Joanna Bourke ★★★★
+* **Desert** - Anonymous ★★★
 * **Fifth Sun** - Camilla Townsend ★★★★
 * **Corpsemouth and Other Autobiographies** - John Langan ★★★★
 * **The Sleep Solution** - W. Chris Winter ★★★★
